@@ -1,0 +1,57 @@
+1517904414075	geckodriver	INFO	geckodriver 0.19.1
+1517904414091	geckodriver	INFO	Listening on 127.0.0.1:60807
+1517904417216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Randolph\\AppData\\Local\\Temp\\rust_mozprofile.Jp8RxHmCAprj"
+1517904418832	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Randolph\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517904420493	Marionette	INFO	Listening on port 60816
+1517904420895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517904421100	Marionette	DEBUG	Register listener.js for window 4294967297
+1517904421288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517904421342	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517904421343	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517904423312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xxjs.dtdjzx.gov.cn/"
+1517904423572	Marionette	DEBUG	Received DOM event "pageshow" for "http://xxjs.dtdjzx.gov.cn/"
+1517904423975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904424322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904424575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904425186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904475538	geckodriver	INFO	geckodriver 0.19.1
+1517904475553	geckodriver	INFO	Listening on 127.0.0.1:60881
+1517904478663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Randolph\\AppData\\Local\\Temp\\rust_mozprofile.ooXSWmx5AdvB"
+1517904479139	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Randolph\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517904480552	Marionette	INFO	Listening on port 60889
+1517904480717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517904480770	Marionette	DEBUG	Register listener.js for window 4294967297
+1517904480848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517904480910	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517904480910	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517904483085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xxjs.dtdjzx.gov.cn/"
+1517904483432	Marionette	DEBUG	Received DOM event "pageshow" for "http://xxjs.dtdjzx.gov.cn/"
+1517904483806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904484067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904484324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517904485167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517925253700	geckodriver	INFO	geckodriver 0.19.1
+1517925253731	geckodriver	INFO	Listening on 127.0.0.1:61949
+1517925257075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Randolph\\AppData\\Local\\Temp\\rust_mozprofile.11WgCTNTXiF4"
+1517925259344	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Randolph\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517925262851	Marionette	INFO	Listening on port 61964
+1517925262949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517925263017	Marionette	DEBUG	Register listener.js for window 4294967297
+1517925263109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517925263195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517925263195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517925264740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xxjs.dtdjzx.gov.cn/"
+1517925265724	Marionette	DEBUG	Received DOM event "pageshow" for "http://xxjs.dtdjzx.gov.cn/"
+1517925266073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517925266326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517925266589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517925266962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
